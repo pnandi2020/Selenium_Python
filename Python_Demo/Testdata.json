@@ -1,0 +1,16 @@
+{
+    "Login_details": [
+        {
+            "uname": "Dixit",
+            "upass": "Abhinav"
+        },
+        {
+            "uname": "Saini",
+            "upass": "Lokesh"
+        },
+        {
+            "uname": "Kumar",
+            "upass": "Dixit"
+        }
+    ]
+}
